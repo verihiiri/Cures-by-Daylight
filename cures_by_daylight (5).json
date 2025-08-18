@@ -1,6 +1,6 @@
 {
 	"Name": "Cures by Daylight",
-	"Version": 1755545418,
+	"Version": 1755546138,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.",
 	"Tiers": [
@@ -103,6 +103,8 @@
 				"244",
 				"166",
 				"170",
+				"282",
+				"283",
 				"179",
 				"277",
 				"243",
