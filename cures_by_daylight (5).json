@@ -1,6 +1,6 @@
 {
 	"Name": "Cures by Daylight",
-	"Version": 1757954618,
+	"Version": 1758926276,
 	"MaxPerkRepetition": 2,
 	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.",
 	"Tiers": [
@@ -41,6 +41,7 @@
 				"47",
 				"48",
 				"51",
+				"294",
 				"262",
 				"55",
 				"57",
@@ -55,6 +56,7 @@
 				"72",
 				"73",
 				"74",
+				"295",
 				"78",
 				"79",
 				"80",
@@ -64,6 +66,7 @@
 				"90",
 				"93",
 				"96",
+				"296",
 				"97",
 				"98",
 				"100",
@@ -107,6 +110,7 @@
 				"283",
 				"179",
 				"277",
+				"291",
 				"243",
 				"264",
 				"265",
@@ -123,6 +127,7 @@
 				"284",
 				"209",
 				"213",
+				"292",
 				"214",
 				"215",
 				"216",
@@ -135,6 +140,7 @@
 				"234",
 				"237",
 				"238",
+				"293",
 				"257"
 			],
 			"SurvivorComboPerkBans": [
@@ -3213,6 +3219,57 @@
 			"Name": "The Animatronic",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
