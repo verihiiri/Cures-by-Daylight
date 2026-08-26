@@ -1,8 +1,8 @@
 {
-	"Name": "Cures by Daylight",
-	"Version": 1776792828,
+	"Name": "Cures by Daylight 2026",
+	"Version": 1787708126,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.",
+	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.\n\nAny killer on The Treatment Theatre (Lery's Mem. Inst. will bring a Putrid Oak and not a cut coin). Survivors on that map run Vrigo's Shroud only.",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -184,7 +184,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -260,11 +260,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2,
-				3
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -346,11 +345,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2,
-				3
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -358,7 +356,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -444,7 +442,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -657,19 +655,18 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2,
-				3
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Doctor",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"20"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -755,7 +752,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -991,9 +988,9 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"0"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -1158,11 +1155,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2,
-				3
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1170,7 +1166,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -1255,7 +1251,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -1444,7 +1440,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -1530,7 +1526,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"49"
 			],
 			"BalanceTiers": [
 				0
@@ -1666,7 +1662,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -1755,7 +1751,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -2030,7 +2026,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -2167,7 +2163,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"20"
 			],
 			"BalanceTiers": [
 				0
@@ -2243,11 +2239,10 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2,
-				3
+				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -2306,7 +2301,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"50"
 			],
 			"BalanceTiers": [
 				0
@@ -2563,7 +2558,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -2837,7 +2832,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3026,7 +3021,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"49"
+				"33"
 			],
 			"BalanceTiers": [
 				0
@@ -3215,7 +3210,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -3264,7 +3259,58 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
