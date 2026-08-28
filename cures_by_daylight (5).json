@@ -1,6 +1,6 @@
 {
 	"Name": "Cures by Daylight 2026",
-	"Version": 1787793040,
+	"Version": 1787941029,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.\n\nAny killer on The Treatment Theatre (Lery's Mem. Inst. will bring a Putrid Oak and not a cut coin). Survivors on that map run Vrigo's Shroud only.",
 	"Tiers": [
@@ -20,6 +20,7 @@
 				"12",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"24",
@@ -46,6 +47,7 @@
 				"48",
 				"308",
 				"51",
+				"319",
 				"262",
 				"55",
 				"57",
@@ -71,6 +73,7 @@
 				"96",
 				"97",
 				"98",
+				"320",
 				"100",
 				"92",
 				"275",
@@ -94,6 +97,7 @@
 				"245",
 				"140",
 				"143",
+				"315",
 				"144",
 				"158",
 				"255",
@@ -112,6 +116,7 @@
 				"179",
 				"277",
 				"243",
+				"316",
 				"264",
 				"265",
 				"187",
@@ -119,6 +124,7 @@
 				"215",
 				"194",
 				"256",
+				"317",
 				"195",
 				"197",
 				"201",
@@ -3313,6 +3319,57 @@
 			"Name": "The Slasher",
 			"KillerNotes": "",
 			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
