@@ -1,6 +1,6 @@
 {
 	"Name": "Cures by Daylight 2026",
-	"Version": 1790285777,
+	"Version": 1790289615,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Each Survivor and Killer MUST run a teachable perk from that character.\n\nAny killer on The Treatment Theatre (Lery's Mem. Inst. will bring a Putrid Oak and not a cut coin). Survivors on that map run Vrigo's Shroud only.",
 	"Tiers": [
@@ -16,9 +16,11 @@
 				"300",
 				"258",
 				"9",
+				"104",
 				"10",
 				"11",
 				"12",
+				"17",
 				"247",
 				"19",
 				"318",
